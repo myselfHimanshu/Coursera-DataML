@@ -1,6 +1,6 @@
 #get the dataset
 #read the csv file
-data = read.csv("/run/media/Himanshu/2B51E07B186F2598/Coursera/RprogrammingLang/hw1_data.csv")
+data = read.csv("../hw1_data.csv")
 
 #get the columns names from the dataset
 names(data)
