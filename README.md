@@ -1,2 +1,4 @@
-# datasciencecoursera
+# CourseraWork
+
+Assignments of the courses.
 
