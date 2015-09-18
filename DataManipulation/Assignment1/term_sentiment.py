@@ -44,13 +44,13 @@ def main():
     	tweet_file = open(sys.argv[2])
     	
     	#########################################################################
-    	scores = {}                                                            # initialize an empty dictionary
+    	scores = {}                                                            
 	for line in sent_file:
-  		term, score  = line.split("\t")                    # The file is tab-delimited. "\t" means "tab character"
-  		scores[term] = float(score)                        # Convert the score to an integer.
+  		term, score  = line.split("\t")                    
+  		scores[term] = float(score)                        
 
-	# print scores.items()                                       # Print every (term, score) pair in the dictionary
-	#tweetParse(tweet_file)
+	
+	
 	Calculate(tweetParser(tweet_file),scores)
 	
 	#########################################################################
