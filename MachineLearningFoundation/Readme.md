@@ -10,4 +10,6 @@ from features of the house (square feet of living space, number of bedrooms,...)
 
 Make sure you have downloaded and installed Python, iPython notebook and GraphLab Create.
 
+Download the house sales pricing dataset here, in SFrame format:<br \> https://www.dropbox.com/s/ql5qxngvm63tm9h/home_data.gl.zip?dl=0
+
 Status : Completed
