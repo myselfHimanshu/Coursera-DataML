@@ -4,7 +4,7 @@ My solutions for the course https://www.coursera.org/learn/ml-foundations
 
 ## Assignment 1: Regression: Predicting House Prices
 
-Predicting house prices
+Predicting house prices<br />
 In this module, we focused on using regression to predict a continuous value (house prices) 
 from features of the house (square feet of living space, number of bedrooms,...). 
 
@@ -16,7 +16,7 @@ Status : Completed
 
 ## Assignment 2: Classification: Analyzing Sentiment
 
-Analyzing product sentiment
+Analyzing product sentiment<br />
 In this module, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes. 
 
 Make sure you have downloaded and installed Python, iPython notebook and GraphLab Create.
