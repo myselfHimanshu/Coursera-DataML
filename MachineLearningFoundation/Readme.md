@@ -25,4 +25,15 @@ Download the house sales pricing dataset here, in SFrame format:<br \> https://w
 
 Status : Completed
 
+## Assignment 3: Clustering and Similarity: Retrieving Documents
+
+Retrieving Wikipedia articles<br />
+In this module, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF.
+
+Make sure you have downloaded and installed Python, iPython notebook and GraphLab Create.
+
+Download the wikipedia dataset with articles on famous people here in SFrame format:<br \> https://www.dropbox.com/s/3mjdtnmzexlw9l9/people_wiki.gl.zip?dl=0
+
+Status : Completed
+
 
