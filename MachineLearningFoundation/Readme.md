@@ -36,4 +36,15 @@ Download the wikipedia dataset with articles on famous people here in SFrame for
 
 Status : Completed
 
+## Assignment 4: Recommending Products
+
+Recommending songs<br />
+In this module, we focused on building recommender systems to find products, music and movies that interest users. Built an exciting iPython notebook for recommending songs, which compared the simple popularity-based recommendation with a personalized model, and showed the significant improvement provided by personalization.
+
+Make sure you have downloaded and installed Python, iPython notebook and GraphLab Create.
+
+Download the wikipedia dataset with articles on famous people here in SFrame format:<br \> https://www.dropbox.com/s/6b2xbrjb5meyezo/song_data.gl.zip?dl=0
+
+Status : Completed
+
 
