@@ -1,4 +1,4 @@
 # CourseraWork
 
-Assignments of the courses.
+Programming Assignments of the courses.
 
