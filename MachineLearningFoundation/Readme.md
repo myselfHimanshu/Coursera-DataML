@@ -47,4 +47,16 @@ Download the wikipedia dataset with articles on famous people here in SFrame for
 
 Status : Completed
 
+## Assignment 5: Deep Learning: Searching for Images
 
+Deep features for image retrieval<br />
+In this module, we focused on using deep learning to create non-linear features to improve the performance of machine learning. We also saw how transfer learning techniques can be applied to use deep features learned with one dataset to get great performance on a different dataset.
+
+Make sure you have downloaded and installed Python, iPython notebook and GraphLab Create.
+
+Download the wikipedia dataset with training images here in SFrame format:<br \> https://www.dropbox.com/s/hy7jzy1yz64bdqd/image_train_data.zip?dl=0
+
+Download the wikipedia dataset with test images herein SFrame format:<br \>
+https://www.dropbox.com/s/c4pcqmiby7j1m2v/image_test_data.zip?dl=0
+
+Status : Completed
