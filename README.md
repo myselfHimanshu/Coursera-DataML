@@ -10,6 +10,11 @@ https://www.coursera.org/learn/ml-foundations  <br />
 https://www.coursera.org/learn/data-manipulation/  <br />
 <b>Status: In Progress</b>
 
+3.Machine Learning :Regression<br />
+https://www.coursera.org/learn/ml-regression/  <br />
+<b>Status: In Progress</b>
+
+
 
 
 
