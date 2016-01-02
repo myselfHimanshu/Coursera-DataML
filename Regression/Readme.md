@@ -23,3 +23,11 @@ In this notebook we will cover estimating multiple regression weights via gradie
 
 <b>Status: Completed</b> 
 
+##Regression Week 3: Assessing Performance
+
+Polynomial Regression: <br />
+In this notebook you will compare different regression models in order to assess which model fits best. 
+We will be using polynomial regression as a means to examine the topic.
+
+<b>Status: Completed</b>
+
