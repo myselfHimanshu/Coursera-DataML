@@ -8,11 +8,16 @@ https://www.coursera.org/learn/ml-foundations  <br />
 
 2.Data Manipulation at Scale: Systems and Algorithms:<br />
 https://www.coursera.org/learn/data-manipulation/  <br />
-<b>Status: In Progress</b>
+<b>Status: -</b>
 
 3.Machine Learning :Regression<br />
 https://www.coursera.org/learn/ml-regression/  <br />
+<b>Status: -</b>
+
+4.Machine Learning :Classification<br />
+https://www.coursera.org/learn/ml-classification/  <br />
 <b>Status: In Progress</b>
+
 
 
 
