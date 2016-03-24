@@ -31,3 +31,15 @@ We will be using polynomial regression as a means to examine the topic.
 
 <b>Status: Completed</b>
 
+##Regression Week 4: Ridge Regression
+
+####Assignment 1
+Observing effects of L2 penalty in polynomial regression:<br />
+Run ridge regression multiple times with different L2 penalties to see which one produces the best fit. Revisit the example of polynomial regression as a means to see the effect of L2 regularization.
+
+####Assignment 2
+Ridge regression via gradient descent: <br />
+Write gradient descent function to compute the regression weights given an initial weight vector, step size, tolerance, and L2 penalty.
+
+<b>Status: Completed</b>
+
