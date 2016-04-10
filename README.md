@@ -6,17 +6,21 @@ Programming Assignments of my courses.
 https://www.coursera.org/learn/ml-foundations  <br />
 <b>Status: Completed</b>
 
-2.Data Manipulation at Scale: Systems and Algorithms:<br />
+2.Machine Learning- Andrew Ng<br />
+https://www.coursera.org/learn/machine-learning/<br />
+<b>Status:- In progress</b>
+
+3.Data Manipulation at Scale: Systems and Algorithms:<br />
 https://www.coursera.org/learn/data-manipulation/  <br />
 <b>Status: -</b>
 
-3.Machine Learning :Regression<br />
+4.Machine Learning :Regression<br />
 https://www.coursera.org/learn/ml-regression/  <br />
 <b>Status: -</b>
 
-4.Machine Learning :Classification<br />
+5.Machine Learning :Classification<br />
 https://www.coursera.org/learn/ml-classification/  <br />
-<b>Status: In Progress</b>
+<b>Status: -</b>
 
 
 
