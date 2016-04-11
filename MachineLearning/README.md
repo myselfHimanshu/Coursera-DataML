@@ -5,7 +5,7 @@ This repository contains python implementations of exercises from the course by 
 My solutions for the course https://www.coursera.org/learn/machine-learning/
 
 Exercise 1 : Linear Regression<br />
-
+Exercise 2 : Logistic Regression<br />
 
 
 <b>Work: in progress</b>
