@@ -43,3 +43,14 @@ Write gradient descent function to compute the regression weights given an initi
 
 <b>Status: Completed</b>
 
+##Regression Week 5: Feature Selection & Lasso
+
+####Assignment 1
+LASSO Assignment 1:<br />
+You will use LASSO to select features, building on a pre-implemented solver for LASSO.
+- Run LASSO with different L1 penalties.
+- Choose best L1 penalty using a validation set.
+- Choose best L1 penalty using a validation set, with additional constraint on the size of subset.
+
+
+
