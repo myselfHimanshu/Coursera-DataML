@@ -52,5 +52,15 @@ You will use LASSO to select features, building on a pre-implemented solver for 
 - Choose best L1 penalty using a validation set.
 - Choose best L1 penalty using a validation set, with additional constraint on the size of subset.
 
+####Assignment 2
+LASSO Assignment 2:<br />
+You will implement your very own LASSO solver via coordinate descent.
+- Write a function to normalize features
+- Implement coordinate descent for LASSO
+- Explore effects of L1 penalty
+
+<b>Status: Completed</b>
+
+
 
 
