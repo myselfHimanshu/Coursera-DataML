@@ -61,6 +61,18 @@ You will implement your very own LASSO solver via coordinate descent.
 
 <b>Status: Completed</b>
 
+##Regression Week 6: Nearest Neighbors & Kernel Regression
+
+####Assignment 1
+Predicting house prices using k-nearest neighbors regression:<br />
+You will implement k-nearest neighbors regression.
+- Find the k-nearest neighbors of a given query input
+- Predict the output for the query input using the k-nearest neighbors
+- Choose the best value of k using a validation set
+
+<b>Status: Completed</b>
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
